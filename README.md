@@ -44,7 +44,7 @@ This quiz application was developed as part of the CausalFunnel Software Enginee
    npm run dev
    ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `https://quiz-application-abhinavjoe.vercel.app/`
 
 ## Project Structure
 
@@ -66,10 +66,6 @@ src/
 
 1. Users will complete the quiz in a single session.
 2. Browser localStorage is available for state persistence i.e. users are accessing the application from modern web browsers.
-
-## Technical Challenges and Solutions
-
-1. To be added
 
 ## Future Improvements
 
